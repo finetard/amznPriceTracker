@@ -1,6 +1,6 @@
 # amznPriceTracker
 A python program to fetch Price details from Amazon.in
-Written in Python 3
+- Written in Python 3
 #####  Built for amazon.in
 
 #### Usage
